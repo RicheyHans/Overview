@@ -6,7 +6,7 @@ Github Repository Overview
 
 ### [JAVA] JAVA Basic Language Study
 
-JAVA 주요 개념 Self-Study 내용 [link]()
+JAVA 주요 개념 Self-Study 내용 [link](https://github.com/RicheyHans/-JAVA-LanguageStudy)
 
 ### [JAVA] JAVA School Lecture
 
