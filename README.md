@@ -4,13 +4,13 @@ Github Repository Overview
 
 ---
 
-### [JAVA] Self Study Project [link](https://github.com/RicheyHans/-JAVA-Self-Study-Project.git)
+### [JAVA] JAVA Basic Language Study [link]()
 
-JAVA 언어 관련 개념, exercise 개인 스터디 항목
+JAVA 주요 개념 Self-Study 내용
 
-### [JAVA] Fast Campus School Lecture [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture.git)
+### [JAVA] JAVA School Lecture [link](https://github.com/RicheyHans/-JAVA-FC_School_Lecture.git)
 
-Android School 정규 클래스 과정 JAVA 언어
+Android School 정규 클래스 내 JAVA 관련 수업
 
 ### [JAVA] Algorithm Training [link](https://github.com/RicheyHans/-JAVA-algorithm)
 
